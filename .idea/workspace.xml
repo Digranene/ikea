@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0140b29-074f-452e-a4f2-12ec689b699f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ikea.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/dataBase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon/android-chrome-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon/android-chrome-512x512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon/browserconfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon/mstile-150x150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon/safari-pinned-tab.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Notosansdisplaybold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Notosansdisplaybold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Notosansdisplaybolditalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Notosansdisplaybolditalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Notosansdisplayitalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Notosansdisplayitalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Notosansdisplayregular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Notosansdisplayregular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/b47e07ee97fd5f9bf030d258d462a945.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/b47e07ee97fd5f9bf030d258d462a945.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/chevron-down-thin-24.1667eab2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/fabler-byorn-myagkaya-igrushka-bezhevyy__0710165_PE727396_S5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/fabler-byorn-myagkaya-igrushka-bezhevyy__0876865_PE611124_S5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/ikea-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/remove-thin-24.16c1cc7a.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/generateCatalog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/generateFooter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/generateHeader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/generateSubCatalog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/styles.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iC5PuLOdLNIwjY4mDySpeVtPkM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0140b29-074f-452e-a4f2-12ec689b699f" name="Default Changelist" comment="" />
+      <created>1601398714516</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601398714516</updated>
+      <workItem from="1601398715952" duration="8402000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

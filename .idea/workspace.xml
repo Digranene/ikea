@@ -1,46 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0140b29-074f-452e-a4f2-12ec689b699f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ikea.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/card.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cart.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/dataBase.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon/android-chrome-192x192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon/android-chrome-512x512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon/browserconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon/mstile-150x150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon/safari-pinned-tab.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Notosansdisplaybold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Notosansdisplaybold.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Notosansdisplaybolditalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Notosansdisplaybolditalic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Notosansdisplayitalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Notosansdisplayitalic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Notosansdisplayregular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Notosansdisplayregular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/goods.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/b47e07ee97fd5f9bf030d258d462a945.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/b47e07ee97fd5f9bf030d258d462a945.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/chevron-down-thin-24.1667eab2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/fabler-byorn-myagkaya-igrushka-bezhevyy__0710165_PE727396_S5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/fabler-byorn-myagkaya-igrushka-bezhevyy__0876865_PE611124_S5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/ikea-logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/remove-thin-24.16c1cc7a.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script/generateCatalog.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script/generateFooter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script/generateHeader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script/generateSubCatalog.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/styles.css" afterDir="false" />
+    <list default="true" id="a0140b29-074f-452e-a4f2-12ec689b699f" name="Default Changelist" comment="Changes">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/getData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/loadData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/card.html" beforeDir="false" afterPath="$PROJECT_DIR$/card.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/cart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goods.html" beforeDir="false" afterPath="$PROJECT_DIR$/goods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/generateCatalog.js" beforeDir="false" afterPath="$PROJECT_DIR$/script/generateCatalog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/generateFooter.js" beforeDir="false" afterPath="$PROJECT_DIR$/script/generateFooter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/generateHeader.js" beforeDir="false" afterPath="$PROJECT_DIR$/script/generateHeader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/generateSubCatalog.js" beforeDir="false" afterPath="$PROJECT_DIR$/script/generateSubCatalog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/script/catalog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +58,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -77,11 +73,45 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601398714516</updated>
-      <workItem from="1601398715952" duration="8402000" />
+      <workItem from="1601398715952" duration="9143000" />
+      <workItem from="1601483820482" duration="9710000" />
     </task>
+    <task id="LOCAL-00001" summary="Changes">
+      <created>1601412313397</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601412313397</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1024" y="440" key="Github.ShareDialog" timestamp="1601412435223">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="1024" y="440" key="Github.ShareDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1601412435223" />
+    <state x="751" y="276" key="Vcs.Push.Dialog.v2" timestamp="1601412330113">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="751" y="276" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1601412330113" />
   </component>
 </project>

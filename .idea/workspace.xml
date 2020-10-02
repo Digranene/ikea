@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -19,22 +22,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0140b29-074f-452e-a4f2-12ec689b699f" name="Default Changelist" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script/getData.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script/loadData.js" afterDir="false" />
+    <list default="true" id="a0140b29-074f-452e-a4f2-12ec689b699f" name="Default Changelist" comment="Changes day 2">
+      <change afterPath="$PROJECT_DIR$/script/generateGoodsPage.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/card.html" beforeDir="false" afterPath="$PROJECT_DIR$/card.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/cart.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/goods.html" beforeDir="false" afterPath="$PROJECT_DIR$/goods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/catalog.js" beforeDir="false" afterPath="$PROJECT_DIR$/script/catalog.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/script/generateCatalog.js" beforeDir="false" afterPath="$PROJECT_DIR$/script/generateCatalog.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/script/generateFooter.js" beforeDir="false" afterPath="$PROJECT_DIR$/script/generateFooter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/generateHeader.js" beforeDir="false" afterPath="$PROJECT_DIR$/script/generateHeader.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/script/generateSubCatalog.js" beforeDir="false" afterPath="$PROJECT_DIR$/script/generateSubCatalog.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/script/catalog.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/getData.js" beforeDir="false" afterPath="$PROJECT_DIR$/script/getData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/script/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/loadData.js" beforeDir="false" afterPath="$PROJECT_DIR$/script/loadData.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +61,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="liveEdit" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -74,7 +73,9 @@
       <option name="presentableId" value="Default" />
       <updated>1601398714516</updated>
       <workItem from="1601398715952" duration="9143000" />
-      <workItem from="1601483820482" duration="9710000" />
+      <workItem from="1601483820482" duration="9746000" />
+      <workItem from="1601543878390" duration="5365000" />
+      <workItem from="1601571451132" duration="10764000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1601412313397</created>
@@ -83,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601412313397</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Changes day 2">
+      <created>1601497364135</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601497364135</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,16 +107,26 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes" />
+    <MESSAGE value="Changes day 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes day 2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="609" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601576671347">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="609" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1601576671347" />
     <state x="1024" y="440" key="Github.ShareDialog" timestamp="1601412435223">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="1024" y="440" key="Github.ShareDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1601412435223" />
+    <state x="412" y="98" key="SettingsEditor" timestamp="1601550416989">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="412" y="98" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1601550416989" />
     <state x="751" y="276" key="Vcs.Push.Dialog.v2" timestamp="1601412330113">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>

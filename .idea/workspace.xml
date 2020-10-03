@@ -22,15 +22,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0140b29-074f-452e-a4f2-12ec689b699f" name="Default Changelist" comment="Changes day 2">
-      <change afterPath="$PROJECT_DIR$/script/generateGoodsPage.js" afterDir="false" />
+    <list default="true" id="a0140b29-074f-452e-a4f2-12ec689b699f" name="Default Changelist" comment="Changes day 3">
+      <change afterPath="$PROJECT_DIR$/script/Storage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/generateItemPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/userData.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/goods.html" beforeDir="false" afterPath="$PROJECT_DIR$/goods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/catalog.js" beforeDir="false" afterPath="$PROJECT_DIR$/script/catalog.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/generateCatalog.js" beforeDir="false" afterPath="$PROJECT_DIR$/script/generateCatalog.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/generateFooter.js" beforeDir="false" afterPath="$PROJECT_DIR$/script/generateFooter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/generateSubCatalog.js" beforeDir="false" afterPath="$PROJECT_DIR$/script/generateSubCatalog.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/getData.js" beforeDir="false" afterPath="$PROJECT_DIR$/script/getData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/generateGoodsPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/script/generateGoodsPage.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/script/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/script/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/script/loadData.js" beforeDir="false" afterPath="$PROJECT_DIR$/script/loadData.js" afterDir="false" />
     </list>
@@ -75,7 +72,8 @@
       <workItem from="1601398715952" duration="9143000" />
       <workItem from="1601483820482" duration="9746000" />
       <workItem from="1601543878390" duration="5365000" />
-      <workItem from="1601571451132" duration="10764000" />
+      <workItem from="1601571451132" duration="14958000" />
+      <workItem from="1601734380666" duration="8977000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1601412313397</created>
@@ -91,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601497364135</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Changes day 3">
+      <created>1601645422940</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601645422940</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,7 +117,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Changes" />
     <MESSAGE value="Changes day 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes day 2" />
+    <MESSAGE value="Changes day 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes day 3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="609" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601576671347">

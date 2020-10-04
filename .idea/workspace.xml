@@ -22,14 +22,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0140b29-074f-452e-a4f2-12ec689b699f" name="Default Changelist" comment="Changes day 3">
-      <change afterPath="$PROJECT_DIR$/script/Storage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script/generateItemPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script/userData.js" afterDir="false" />
+    <list default="true" id="a0140b29-074f-452e-a4f2-12ec689b699f" name="Default Changelist" comment="Changes day 4">
+      <change afterPath="$PROJECT_DIR$/script/generateCartPage.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/generateGoodsPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/script/generateGoodsPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/cart.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/script/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/script/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/loadData.js" beforeDir="false" afterPath="$PROJECT_DIR$/script/loadData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/loadData.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/userData.js" beforeDir="false" afterPath="$PROJECT_DIR$/script/userData.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +72,8 @@
       <workItem from="1601483820482" duration="9746000" />
       <workItem from="1601543878390" duration="5365000" />
       <workItem from="1601571451132" duration="14958000" />
-      <workItem from="1601734380666" duration="8977000" />
+      <workItem from="1601734380666" duration="9413000" />
+      <workItem from="1601799906626" duration="6269000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1601412313397</created>
@@ -96,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601645422940</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Changes day 4">
+      <created>1601764394974</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601764394974</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,13 +125,18 @@
     <MESSAGE value="Changes" />
     <MESSAGE value="Changes day 2" />
     <MESSAGE value="Changes day 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes day 3" />
+    <MESSAGE value="Changes day 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes day 4" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="609" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601576671347">
+    <state x="609" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601800671008">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="609" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1601576671347" />
+    <state x="609" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1601800671008" />
+    <state x="954" y="290" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601803477244">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="954" y="290" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1601803477244" />
     <state x="1024" y="440" key="Github.ShareDialog" timestamp="1601412435223">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
@@ -137,5 +149,9 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="751" y="276" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1601412330113" />
+    <state x="881" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1601804878174">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="881" y="250" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1601804878174" />
   </component>
 </project>
